@@ -1,0 +1,4 @@
+import tkinter as tk
+
+janela.tkLabel("Tela de login de usuario")
+
